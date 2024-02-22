@@ -1,0 +1,15 @@
+.active{
+    color:#fff700
+}
+
+.inactive{
+    color: #ffffff;
+}
+
+.star-rating{
+    background-color: rgb(255, 32, 32);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
